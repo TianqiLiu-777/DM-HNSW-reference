@@ -1,5 +1,5 @@
-# SHINE: A Scalable HNSW Index in Disaggregated Memory
-
+DM-HNSW-reference
+Just for learning. I am not the author of the code.
 Implementation of a distributed HNSW index for memory disaggregation. 
 This is the source code of the paper "SHINE: A Scalable HNSW Index in Disaggregated Memory".
 
